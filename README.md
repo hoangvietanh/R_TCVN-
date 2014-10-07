@@ -1,8 +1,7 @@
 R_TCVN-
 =======
 
-R code to convert TCVN3 to Unicode UTF-8 using command line tool uconv.exe (http://prdownloads.sourceforge.net/unikey/uvconv-w32-1.1.3b.zip)
-R code from here
+R code to convert TCVN3 to Unicode UTF-8 using command line tool uconv.exe  (unikey.org)
 
 require("foreign")
 setwd("c:/todel/uconv")
